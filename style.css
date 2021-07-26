@@ -1,0 +1,20 @@
+
+body {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+}
+
+header {
+  padding: 10px;
+  background-color: #C00D0D;
+  font-size: 20px;
+}
+
+header > a {
+  text-decoration: none;
+  color: white;
+}
+
+#logo {
+  width: 25px;
+}
